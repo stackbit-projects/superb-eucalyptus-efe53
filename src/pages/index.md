@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: M&M TCCs
+    title: Márcia Rocha TCC
     image: images/5.jpg
     content: |
       Correção de TCCs
