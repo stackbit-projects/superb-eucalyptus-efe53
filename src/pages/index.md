@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: MT
+    title: M&M TCCs
     image: images/5.jpg
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
