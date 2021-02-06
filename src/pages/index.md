@@ -6,7 +6,7 @@ sections:
     title: Márcia Rocha TCC
     image: images/5.jpg
     content: |
-      Correção de TCCs
+      Tudo que você precisa para um TCC de qualidade! 
     actions:
       - label: Get Started
         url: /docs
